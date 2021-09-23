@@ -168,7 +168,7 @@ def user_stats(df):
         gender = df['Gender'].value_counts()
         print(gender)
     else:
-        print("There is information on in this city.")
+        print("There is information on gender in this city.")
 
 
     # TO:DO Display earliest, most recent, and most common year of birth
