@@ -4,7 +4,7 @@
 23/09/2021.
 
 ### Project Title
-Explore US Bikeshare Data
+Explore U.S Bikeshare Data
 
 ### Description
 Use python to understand U.S bikeshare data. Calculate statistics and build and interactive environment
